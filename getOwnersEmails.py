@@ -16,7 +16,7 @@ def helptext ():
 
 
 def main (args):
-        addr='https://pastebin.com/LNRADsYM';
+        addr='https://somebin.com/dkkskfhsw';
 	pattern='https?://(?:[-\w.]|(?:%[\da-fA-F]{2}))+.co.il';
 
         pname = args[0]
