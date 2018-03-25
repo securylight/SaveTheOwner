@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-import sys, getopt
+import sys
 import urllib2
 import re
 import whois
